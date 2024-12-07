@@ -1,0 +1,88 @@
+@charset "UTF-8";
+
+body {
+	font-family: 'Roboto', sans-serif;
+	background-color: #f4f4f4;
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	width: 90%;
+	margin: 20px auto;
+	background-color: #ffffff;
+	padding: 20px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2, h3 {
+	text-align: center;
+	color: #333333;
+}
+
+.car-details {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	margin-bottom: 30px;
+}
+
+.car-image {
+	width: 300px;
+	height: auto;
+	border-radius: 8px;
+}
+
+.car-info {
+	max-width: 500px;
+}
+
+.car-info p {
+	font-size: 16px;
+	margin: 8px 0;
+}
+
+.additional-info {
+	display: flex;
+	justify-content: space-around;
+	margin-bottom: 30px;
+}
+
+.info-section {
+	text-align: center;
+}
+
+.info-image {
+	width: 150px;
+	height: auto;
+	border-radius: 8px;
+}
+
+.fuel-consumption {
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.fuel-consumption p {
+	font-size: 16px;
+	margin: 8px 0;
+}
+
+.back-button {
+	text-align: center;
+	margin-top: 20px;
+}
+
+.btn-submit {
+	display: inline-block;
+	padding: 10px 20px;
+	background-color: #007BFF;
+	color: #ffffff;
+	text-decoration: none;
+	border-radius: 4px;
+	font-size: 16px;
+}
+
+.btn-submit:hover {
+	background-color: #0056b3;
+}
