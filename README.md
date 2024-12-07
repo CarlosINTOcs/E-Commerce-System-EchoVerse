@@ -17,7 +17,7 @@ You can search the car by any brand, category, name, price.... the example imgae
 ![image](https://github.com/user-attachments/assets/4305ebdf-56f6-4491-96a4-f97d0ae4c50e)
 
 3. Add some car into cart
-![image](https://github.com/user-attachments/assets/5d951a15-ecc3-4cca-9d5c-feb8542ca670)
+![image](https://github.com/user-attachments/assets/4d4eab14-c2e6-4c40-af44-261b647b8794)
 
 4. checkout:
 ![image](https://github.com/user-attachments/assets/9fde60bd-5987-4db8-a576-39c800d68c20)
